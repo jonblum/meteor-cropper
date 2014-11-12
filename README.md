@@ -1,11 +1,11 @@
 meteor-cropper
 ==============
 
-Fengyuan Chen's terrific Cropper jQuery plugin, packaged for Meteor
+Fengyuan Chen's terrific [Cropper](https://github.com/fengyuanchen/cropper) jQuery plugin, packaged for [Meteor](https://www.meteor.com/)
 
-## How to install
+## Installation
 
-`meteor add jonblum:jquery-cropper'
+    meteor add jonblum:jquery-cropper
 
 ## Demos and Docs
 

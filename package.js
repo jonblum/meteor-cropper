@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'jonblum:meteor-cropper',
-  summary: 'Fengyuan Chen's terrific Cropper jQuery plugin, packaged for Meteor',
-  version: '0.7.2',
-  git: 'https://github.com/jonblum/meteor-cropper'
+  name: "jonblum:meteor-cropper",
+  summary: "Fengyuan Chen's terrific Cropper jQuery plugin, packaged for Meteor",
+  version: "0.7.2",
+  git: "https://github.com/jonblum/meteor-cropper"
 });
 
 Package.onUse(function (api) {
@@ -11,7 +11,7 @@ Package.onUse(function (api) {
   api.imply('jquery', 'client');
   api.addFiles([
     'cropper/src/cropper.js',
-    'cropper/src/cropper.css',
+    'cropper/src/cropper.css'
   ], 'client'
   );
 });
