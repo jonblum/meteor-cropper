@@ -1,5 +1,5 @@
 Package.describe({
-  name: "jonblum:meteor-cropper",
+  name: "jonblum:jquery-cropper",
   summary: "Fengyuan Chen's terrific Cropper jQuery plugin, packaged for Meteor",
   version: "0.7.2",
   git: "https://github.com/jonblum/meteor-cropper"
