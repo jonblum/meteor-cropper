@@ -1,4 +1,4 @@
-meteor-cropper
+JQuery Cropper for Meteor
 ==============
 
 Fengyuan Chen's terrific [Cropper](https://github.com/fengyuanchen/cropper) jQuery plugin, packaged for [Meteor](https://www.meteor.com/)
