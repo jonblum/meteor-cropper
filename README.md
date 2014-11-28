@@ -1,7 +1,7 @@
 JQuery Cropper for Meteor
 ==============
 
-Fengyuan Chen's terrific [Cropper](https://github.com/fengyuanchen/cropper) jQuery plugin, packaged for [Meteor](https://www.meteor.com/)
+Fengyuan Chen's terrific [Cropper](https://github.com/fengyuanchen/cropper) jQuery plugin for cropping/resizing/rotating/exporting images, packaged for [Meteor](https://www.meteor.com/)
 
 ## Installation
 
