@@ -1,7 +1,7 @@
 Package.describe({
   name: "jonblum:jquery-cropper",
   summary: "Fengyuan Chen's terrific jQuery plugin for cropping/zooming/rotating images, packaged for Meteor",
-  version: "0.7.4",
+  version: "0.7.5",
   git: "https://github.com/jonblum/meteor-cropper"
 });
 
