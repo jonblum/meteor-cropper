@@ -11,6 +11,18 @@ Fengyuan Chen's terrific [Cropper](https://github.com/fengyuanchen/cropper) jQue
 
 http://fengyuanchen.github.io/cropper/
 
+## Breaking Changes
+
+Full changelogs are [here](https://github.com/fengyuanchen/cropper/blob/master/CHANGELOG.md).
+
+### 0.10.0
+
+The `resizable` option was renamed to `cropBoxResizable`.
+
+### 0.9.0
+
+The `getDataURL` method was removed. See more below.
+
 ## FAQ
 
 ### 0.9.0 broke my code!
@@ -24,4 +36,4 @@ In the meantime, you can get around this by explictly setting the image's source
 ```javascript
 $('.img-to-crop').attr('src',Session.get('myImg'));
 $('.img-to-crop').cropper({ ...
-````
+```
