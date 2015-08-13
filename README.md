@@ -18,7 +18,9 @@ Full changelogs are [here](https://github.com/fengyuanchen/cropper/blob/master/C
 ### 0.11.0
 
 The `dragstart`, `dragmove`, and `dragend` events were renamed to `cropstart`, `cropmove`, and `cropend`, respectively.
+
 The `zoomin` and `zoomout` events were merged to a single `zoom` event.
+
 The `crop` option and `change` event were merged intoa single `crop` event.
 
 ### 0.10.0
