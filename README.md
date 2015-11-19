@@ -15,6 +15,10 @@ http://fengyuanchen.github.io/cropper/
 
 Full changelogs are [here](https://github.com/fengyuanchen/cropper/blob/master/CHANGELOG.md).
 
+## 2.0.1
+
+- Improved new crop box creating
+
 ### 2.0.0
 
 The following options were renamed:
