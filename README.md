@@ -24,8 +24,8 @@ Full changelogs are [here](https://github.com/fengyuanchen/cropper/blob/master/C
 The following options were renamed:
 * `touchDragZoom` to `zoomOnTouch`
 * `mouseWheelZoom` to `zoomOnWheel`
-* `doubleClickToggle to `toggleDragModeOnDblclick`
-* `checkImageOrigin to `checkCrossOrigin`
+* `doubleClickToggle` to `toggleDragModeOnDblclick`
+* `checkImageOrigin` to `checkCrossOrigin`
 
 The `strict` and `dragCrop` options were removed. The same functionality can be obtained with `viewMode: 1` and `dragMode: crop`, respectively.
 
