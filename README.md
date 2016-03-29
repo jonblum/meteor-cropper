@@ -3,6 +3,10 @@ JQuery Cropper for Meteor
 
 Fengyuan Chen's terrific [Cropper](https://github.com/fengyuanchen/cropper) jQuery plugin for cropping/zooming/rotating/exporting images, packaged for [Meteor](https://www.meteor.com/)
 
+## DEPRECATED
+
+With [the release of Meteor 1.3 and its direct support for npm](http://guide.meteor.com/1.3-migration.html), there's no longer a need for wrapper Atmosphere packages like this one &mdash; just run `meteor npm install --save cropper` to install Cropper directly and [import it into your file(s)](http://guide.meteor.com/using-packages.html#using-npm).  This package will remain on Atmosphere for the time being for legacy projects, but it won't be updated to newer versions of Cropper.
+
 ## Installation
 
     meteor add jonblum:jquery-cropper
